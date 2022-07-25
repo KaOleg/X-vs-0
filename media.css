@@ -1,0 +1,9 @@
+@media (max-width: 425px) {
+    table{
+        width: 100%;
+    }
+    button{
+        position: relative;
+        top: 30px;
+    }
+}
